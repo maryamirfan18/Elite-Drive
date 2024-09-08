@@ -6,8 +6,8 @@ My project focuses on a ride booking system. Upon launching, the main menu appea
 
 **For Drivers**: Upon registration, the driver’s name is stored in a file along with their phone number, CNIC, and email address. When a rider requests a ride, a driver is randomly assigned from the file.
 
-**Admin**: Admins can view records of both drivers and riders and access feedback submitted by riders. The admin credentials are:
-Username: "dsaa"
-Password: "dsaa.project"
+**Admin**: Admins can view records of both drivers and riders and access feedback submitted by riders. The admin credentials are:< br / >
+Username: "dsaa"< br / >
+Password: "dsaa.project"< br / >
 
 Riders can provide feedback after their ride, enhancing service quality. The admin can review all feedback, allowing for monitoring and improvements.
